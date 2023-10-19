@@ -7,7 +7,7 @@ class ListaContatosPage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
         appBar: AppBar(
-          title: const Text("Consulta Cep"),
+          title: const Text("Lista de Contatos"),
         ),
         body: const Center(
           child: Column(
